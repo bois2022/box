@@ -6,8 +6,6 @@
 
 { "url": "http://tvbox.王二小放牛娃.xyz", "name": "放牛" },
 
-{ "url": "http://xhww.fun/小米/DEMO.json", "name": "小米" },
-
 { "url": "https://100km.top/0", "name": "RAY" },
 
 { "url": "http://home.jundie.top:81/top98.json", "name": "俊老" },
